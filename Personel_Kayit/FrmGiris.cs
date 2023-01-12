@@ -17,7 +17,7 @@ namespace Personel_Kayit
             InitializeComponent();
         }
         SqlConnection baglanti =
-            new SqlConnection("Data Source=MGURIDEAPAD;Initial Catalog=PersonelDb;User ID=sa;Password=Gr1724Gr");
+            new SqlConnection("Data Source=MGURIDEAPAD;Initial Catalog=PersonelDb;User ID=sa;Password=");
 
         private void btnGiris_Click(object sender, EventArgs e)
         {

@@ -20,7 +20,7 @@ namespace Personel_Kayit
         // Global Alan
 
         SqlConnection baglanti =
-            new SqlConnection("Data Source=MGURIDEAPAD;Initial Catalog=PersonelDb;User ID=sa;Password=Gr1724Gr");
+            new SqlConnection("Data Source=MGURIDEAPAD;Initial Catalog=PersonelDb;User ID=sa;Password=");
 
         void temizle()
         {
